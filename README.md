@@ -1,7 +1,8 @@
 # Side quests
 
-**My first repository created through the terminal uisng GitHub's official CLI tool 'gh'.**
+Priority is to get comfortable with the version control system git. 
 
-Side projects will be included here.
-Projects will be random.
-will re-structure
+Will be adding projects I've completed along my journey.  
+
+Projects will be sparatic.  
+
